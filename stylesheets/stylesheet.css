@@ -148,7 +148,7 @@ img {
 }
 
 p img {
-  /*display: inline;*/
+  display: inline;
   margin: 0;
   padding: 0;
   vertical-align: middle;
